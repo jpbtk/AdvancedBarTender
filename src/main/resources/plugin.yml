@@ -1,0 +1,8 @@
+name: AdvancedBarTender
+version: '${version}'
+main: github.io.jpbtk.advancedbartender.AdvancedBarTender
+api-version: '1.19'
+commands:
+    advancedbartender:
+        description: AdvancedBarTender
+        aliases: [abt]
